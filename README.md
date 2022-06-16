@@ -2,7 +2,7 @@
 - 👀 I’m interested in tokamaks, fusion, experiments
 - 🌱 I’m currently learning just about anything
 - 💞️ I’m looking to collaborate on simulation of tokamak plasmas
-- 📫 How to reach me tanmaymac@gmail.com
+- 📫 How to reach me tmacwan17@ucla.edu
 
 <!---
 Tanmay9102/Tanmay9102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
